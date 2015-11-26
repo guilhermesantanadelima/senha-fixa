@@ -12,5 +12,5 @@ int main() {
                             printf("Senha Invalida\n");
         }
   
-    return 0;
+    system("pause"); //teste
 }
